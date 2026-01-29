@@ -29,15 +29,16 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
         - ALTRIMENTI
             - lo elimino dalla lista e passo al prossimo prodotto
 - controllo della lista della spesa
-    - SE ho spuntato tutta la lista vado alla cassa
+    - SE ho spuntato tutta la lista 
+        - vado alla cassa
     - ALTRIMENTI
         - faccio ultimo controllo dei prodotti negli scaffali per 20 minuti
 - vado in cassa
     - uso il coupon
     - pago con i contanti
-    SE ho soldi extra
+    - SE ho soldi extra
         - compro degli snack
-    ALTRIMENTI
+    - ALTRIMENTI
         - non li compro
 - torno a casa
 
